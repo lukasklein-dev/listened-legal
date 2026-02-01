@@ -85,4 +85,4 @@ For questions regarding these Terms, contact:
 
 Email: lukasklein.dev@gmail.com
 
-© 2026 listened
+© 2026 Listened.
