@@ -2,7 +2,7 @@
 
 Last updated: 18.01.2026
 
-This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("listened").
+This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application ("Listened.").
 
 ---
 
@@ -125,4 +125,4 @@ If you have any questions about this Privacy Policy, contact us at:
 
 Email: lukasklein.dev@gmail.com
 
-© 2026 listened
+© 2026 Listened.
