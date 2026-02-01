@@ -41,4 +41,4 @@ We want this to be a respectful and constructive space for music discussion.
 
 Thank you for helping keep the community welcoming and respectful.
 
-© 2026 listened
+© 2026 Listened.
