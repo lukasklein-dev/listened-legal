@@ -123,6 +123,6 @@ Changes will be effective upon publication.
 
 If you have any questions about this Privacy Policy, contact us at:
 
-Email: lukasklein.dev@gmail.com
+Email: listened.app.support@gmail.com
 
 © 2026 Listened.

@@ -83,6 +83,6 @@ Continued use of the App constitutes acceptance of the updated Terms.
 
 For questions regarding these Terms, contact:
 
-Email: lukasklein.dev@gmail.com
+Email: listened.app.support@gmail.com
 
 © 2026 Listened.
