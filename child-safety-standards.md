@@ -41,3 +41,5 @@ We comply with all applicable child safety laws and regulations.
 ## Child safety point of contact
 
 Lukas Klein, **listened.app.support@gmail.com**
+
+© 2026 Listened.

@@ -59,3 +59,5 @@ You don't have to delete your whole account to remove content. You can delete in
 ## Contact
 
 Questions about deletion: **listened.app.support@gmail.com**
+
+© 2026 Listened.
