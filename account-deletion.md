@@ -1,6 +1,6 @@
 # Delete Your Listened Account
 
-Last updated: 07.10.2026
+Last updated: 16.11.2026
 
 This page explains how to delete your account in the **Listened.** app and what happens to your data.
 
@@ -45,6 +45,7 @@ When your account is deleted, we permanently remove:
 
 - **Backups:** database backups are kept for up to **30 days** and then deleted automatically. Deleted data can remain in these backups until they expire.
 - **Mentions by others:** notifications other users received about your activity no longer show your account.
+- **Emails:** emails you sent to our support address, and our notification emails about reports and feedback, are kept only as long as needed to handle the request.
 
 We don't keep any other data after your account is deleted.
 

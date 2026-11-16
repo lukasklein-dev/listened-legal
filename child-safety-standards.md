@@ -1,6 +1,6 @@
 # Child Safety Standards
 
-Last updated: 07.10.2026
+Last updated: 16.11.2026
 
 **Listened.** has zero tolerance for child sexual abuse and exploitation (CSAE) and child sexual abuse material (CSAM).
 
@@ -18,7 +18,7 @@ These standards are part of our [Terms of Use](https://lukasklein-dev.github.io/
 
 ## How to report
 
-- **In the app:** use the report option on reviews and comments, or send us a message via **Settings → Contact Support** or **Settings → Send Feedback**.
+- **In the app:** use the report option on reviews, comments and user profiles (also available from direct messages), or send us a message via **Settings → Contact Support** or **Settings → Send Feedback**.
 - **By email:** contact **listened.app.support@gmail.com** with the subject "Child safety". Include the username and a description of the content. Please don't attach the illegal material itself.
 
 ---
