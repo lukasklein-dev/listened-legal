@@ -9,7 +9,8 @@ Contains all legal documents and support contact information for the mobile app 
 - [Community Guidelines](https://lukasklein-dev.github.io/listened-legal/community-guidelines)
 - [Child Safety Standards](https://lukasklein-dev.github.io/listened-legal/child-safety-standards)
 - [Account Deletion](https://lukasklein-dev.github.io/listened-legal/account-deletion)
-- [Legal Notice / Impressum](https://lukasklein-dev.github.io/listened-legal/legal-notice)
+- [Legal Notice (Impressum)](https://lukasklein-dev.github.io/listened-legal/legal-notice)
+- [Open-Source Licenses](https://lukasklein-dev.github.io/listened-legal/open-source-licenses)
 
 ## Support
 
