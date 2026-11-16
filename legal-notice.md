@@ -7,15 +7,15 @@ Angaben gemäß § 5 DDG
 
 Lukas Klein<br>
 LK-dev<br>
-[STREET AND HOUSE NUMBER]<br>
-[POSTCODE] [CITY]<br>
+Berliner Allee 9<br>
+66740 Saarlouis<br>
 Germany / Deutschland
 
 ---
 
 ## Contact / Kontakt
 
-Email / E-Mail: listened.app.support@gmail.com
+Email: listened.app.support@gmail.com
 
 ---
 
@@ -25,7 +25,7 @@ Single point of contact for authorities, the European Commission and users under
 
 Zentrale Kontaktstelle für Behörden, die Europäische Kommission und Nutzer nach Art. 11 und 12 der Verordnung (EU) 2022/2065 (DSA):
 
-Email / E-Mail: listened.app.support@gmail.com<br>
+Email: listened.app.support@gmail.com<br>
 Languages / Sprachen: English, German / Englisch, Deutsch
 
 ---
