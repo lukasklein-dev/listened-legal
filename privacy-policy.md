@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 16.11.2026
+Last updated: 22.11.2026
 
 This Privacy Policy explains which personal data we process when you use the mobile app "Listened." (the "App"), the share pages at listened-share.lukasklein-dev.workers.dev and our support channels, why we do it and which rights you have.
 
@@ -23,7 +23,8 @@ See also our [Legal Notice](https://lukasklein-dev.github.io/listened-legal/lega
 ## 2. Summary
 
 - We process your data to run Listened: your account, your profile, your ratings, reviews, lists and messages, and your personalized feed.
-- We do **not** use advertising, analytics or tracking tools, do not sell your data and do not set cookies.
+- The App shows ads from Google AdMob. Personalized ads only with your consent, which you can change at any time in the App's settings (see 3.11).
+- We do **not** use analytics tools and do not set cookies. Apart from advertising (see 3.11), we do not share your data with third parties for their own purposes.
 - Your data is stored with Supabase in the EU (Ireland).
 - You can edit or delete your content and your whole account directly in the App.
 
@@ -121,9 +122,11 @@ Legal basis: contract and legitimate interest. Kept as long as needed to handle 
 
 ### 3.9 Storage on your device
 
-The App stores on your device what it needs to work: your login session, your language and settings (such as haptic feedback and preview looping), your recent searches, and a pending invitation from a shared link until you sign up. This data stays on your device; there are no cookies, no advertising IDs and no tracking.
+The App stores on your device what it needs to work: your login session, your language and settings (such as haptic feedback and preview looping), your recent searches, and a pending invitation from a shared link until you sign up. This data stays on your device, and the App sets no cookies.
 
 Legal basis: § 25(2) no. 2 TDDDG (strictly necessary for the service you requested), and contract.
+
+For advertising, Google's software in the App stores your consent choice on your device and, where you allowed it, reads your device's advertising ID (see 3.11).
 
 ### 3.10 Music data, previews and links
 
@@ -132,6 +135,29 @@ Album and artist information, artwork, charts and short song previews come from 
 Most of this is requested by our servers without any personal data. Song previews and artwork, and music data while our servers are unavailable, are loaded by your device directly from Apple, which like any website then sees your IP address. When you open a link to Apple Music, Spotify or another service, their own privacy policies apply.
 
 We do not provide full music streaming.
+
+### 3.11 Advertising (Google AdMob)
+
+The App shows ads between the items of the "For You" feed and of the activity feeds. Ads are labeled as such. They are provided by Google AdMob, a service of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland ("Google").
+
+To request, show and measure ads, the Google Mobile Ads software in the App processes:
+
+- Your device's advertising ID (IDFA on iOS, Advertising ID on Android), where available and allowed
+- Your IP address and the approximate location derived from it
+- Device and app information, such as device model, operating system, app version and language
+- Your interactions with ads (views, clicks) and diagnostic data (crashes, performance)
+
+Through Google, other ad partners can bid for an ad space and receive this data for it. The consent dialog lists them, and under "Manage options" you can decide per partner and purpose.
+
+We do not pass your account, your profile, your content or your "For You" usage data to Google or its ad partners.
+
+**Your choice.** In the EEA, the United Kingdom and Switzerland, the App asks for your consent through Google's consent management platform (certified under the IAB Transparency & Consent Framework) before anything is read from or stored on your device for advertising. Depending on your choice, Google shows personalized ads (based on your interests), non-personalized ads or limited ads. Without consent you still see ads, but they are not personalized. On iOS, the App also asks for permission to track via Apple's App Tracking Transparency; if you decline, your advertising ID is not shared. In US states with privacy laws, you can opt out of the sale or sharing of your data in the same form.
+
+You can change or withdraw your consent at any time in the App under Settings → Ads & privacy (shown where this applies to your region), on iOS under Settings → Privacy & Security → Tracking, and on Android by resetting or deleting the advertising ID in your device settings.
+
+Google also processes this data as an independent controller for its own purposes, such as measuring and improving its ad services and preventing fraud, and may transfer it to Google LLC in the USA (see section 5). More information: [Google Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+Legal basis: consent (Art. 6(1)(a) GDPR, § 25(1) TDDDG) for reading and storing information on your device and for personalized ads; for non-personalized and limited ads, our legitimate interest in financing Listened through advertising (Art. 6(1)(f) GDPR). Your consent choice is stored on your device.
 
 ---
 
@@ -148,6 +174,7 @@ We use the following service providers. Where they process data on our behalf, w
 | Cloudflare Inc. | Share pages | USA, worldwide network |
 | GitHub Inc. | Database backups (kept for 30 days) | USA |
 | Google LLC (Gmail) | Our support mailbox | USA |
+| Google Ireland Ltd. (Google AdMob) | Ads and consent management, partly as an independent controller (see 3.11) | EU (Ireland), USA |
 
 We share data with authorities only if we are legally required to.
 
@@ -198,6 +225,8 @@ You can edit your profile, delete individual content and delete your account dir
 ## 9. Children
 
 Listened is not intended for children under 13, and we do not knowingly collect their data. If you are under the age of majority in your country, you may only use Listened with the permission of a parent or legal guardian. If you believe a child under 13 uses Listened, please contact us and we will delete the account.
+
+Ads in the App are limited to content suitable for teenagers. If you are under 16, please give consent to personalized ads (see 3.11) only with the permission of a parent or legal guardian.
 
 ---
 
