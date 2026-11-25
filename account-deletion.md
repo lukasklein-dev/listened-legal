@@ -1,6 +1,6 @@
 # Delete Your Listened Account
 
-Last updated: 16.11.2026
+Last updated: 25.11.2026
 
 This page explains how to delete your account in the **Listened.** app and what happens to your data.
 
@@ -46,6 +46,7 @@ When your account is deleted, we permanently remove:
 - **Backups:** database backups are kept for up to **30 days** and then deleted automatically. Deleted data can remain in these backups until they expire.
 - **Mentions by others:** notifications other users received about your activity no longer show your account.
 - **Emails:** emails you sent to our support address, and our notification emails about reports and feedback, are kept only as long as needed to handle the request.
+- **Advertising data:** we don't store any advertising data with your account. Your ad consent choice is stored only on your device and is removed when you uninstall the App. Data that Google AdMob processed to show ads is not linked to your account, so we can't delete it; Google keeps it according to its own privacy policy (see section 3.11 of our Privacy Policy). You can reset or delete your device's advertising ID in your device settings.
 
 We don't keep any other data after your account is deleted.
 
